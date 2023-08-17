@@ -1,0 +1,13 @@
+
+
+.post-title{
+    display: flex !important;
+    justify-content: space-around !important;
+    width: 100%;
+}
+
+.accordion-flush{
+    margin: 0;
+    padding: 0;
+    width: 89%;
+}
